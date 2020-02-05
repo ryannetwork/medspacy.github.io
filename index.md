@@ -1,5 +1,5 @@
 # MedSpaCy 
-<img src="img/59034833.png" alt="logo" width="200"/>
+
 MedSpaCy is an open-source, interoperable, robust, and extensible clinical natural language
  processing (NLP) toolkit based on SpaCy, a widely accepted open-source library, that would provide 
  the research community with a set of commonly used cNLP modules. By establishing and promoting 
